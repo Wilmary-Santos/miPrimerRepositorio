@@ -3,5 +3,6 @@
         </head>>
         <body>
                 <h1>Mi Primer Archivo HTML en GitHub <>
+                    <p>Estamos trabajando con estas páginas de HTML como una demostración de como podemos manipular todos sus datos desde GitHub y poder realizar cambios a su contenido.<p>
                 </body>
 </html>
